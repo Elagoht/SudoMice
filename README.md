@@ -78,10 +78,10 @@ The one who ends the life of the opposing castle, wins the game. However, it is 
 
 ## Screenshots
 
-![Main Menu](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/mainmenu.png)
-![Settings](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/settings.png)
-![Dialog](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/dialog.png)
-![In Game](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/ingame.png)
+![Main Menu](https://raw.githubusercontent.com/Elagoht/SudoMice/main/screenshots/mainmenu.png)
+![Settings](https://raw.githubusercontent.com/Elagoht/SudoMice/main/screenshots/settings.png)
+![Dialog](https://raw.githubusercontent.com/Elagoht/SudoMice/main/screenshots/dialog.png)
+![In Game](https://raw.githubusercontent.com/Elagoht/SudoMice/main/screenshots/ingame.png)
 
 ## How To Install
 

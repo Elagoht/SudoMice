@@ -18,15 +18,15 @@ Each unit has 5 life and deals 1 damage per hit to other troops. However, they d
 
 Troops summoned by Sudo have 4x health and 2x the damage. In this way, they will inflict 4x damage to the class they are superior to.
 
-![Sudoed Units](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/superiority.png)
+![Sudoed Units](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/sudoedunit.png)
 
 In addition, Knights and Archers that are powered by the Power Up command shoot more often, while mages can also heal themselves.
 
 The HUD below, shows the Castle's health, the total number of troops summoned, and the total number of troops killed.
 
-![Hud](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/superiority.png)
+![Hud](https://raw.githubusercontent.com/Elagoht/SudoMice/main/guide/hud.png)
 
-## Sudo's explanation
+## Sudo's Explanation
 
 Sudo stands for Super User Do in Linux operating systems and allows access to commands and files on the computer that normal users do not have permission to access. Runs commands as root user. In the game, in addition to the normal codes, it is necessary to write sudo at the beginning of the commands to run the codes that require root permission.
 

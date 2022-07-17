@@ -89,7 +89,7 @@ Download the game for your OS from releases. For archives, just extract it and l
 
 Optinally if you use Arch Linux you can get it from AUR
 
-<https://aur.archlinux.org/sudo-mice-bin.git>
+<https://aur.archlinux.org/packages/sudo-mice-bin>
 
 ```sh
 your-aur-helper -S sudo-mice-bin
